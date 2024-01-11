@@ -16,7 +16,7 @@ Make sure you have Docker installed on your machine.
 
 2. build the docker image
 
-       ```bash
+     ```bash
          docker build -t qr-code-generator .
 
 3. run the docker container
